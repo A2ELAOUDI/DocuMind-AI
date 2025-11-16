@@ -47,7 +47,7 @@ Response + Sources
 |-----------|-----------|
 | **Framework** | LangChain 0.1.0 |
 | **Vector DB** | ChromaDB 0.4.22 |
-| **LLM** | OpenAI GPT-3.5/4 or Ollama |
+| **LLM** | OpenAI GPT-5/4o or Ollama |
 | **API** | FastAPI 0.108.0 |
 | **UI** | Streamlit 1.29.0 |
 | **Embeddings** | OpenAI text-embedding-ada-002 |
